@@ -1,0 +1,25 @@
+header {
+    background-image: url(../assets/img/Background_Intro.png);
+}
+
+.text-sm,
+.title-lg,
+.subtitle {
+    color: var(--gray-100);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    max-width: 1040px;
+    gap: 16px;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+.text-sm {
+    max-width: 680px;
+}
