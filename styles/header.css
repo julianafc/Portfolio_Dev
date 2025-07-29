@@ -1,5 +1,6 @@
 header {
     background-image: url(../assets/img/Background_Intro.png);
+    background-size: cover;
     padding-top: 120px;
 }
 
