@@ -11,6 +11,10 @@ main {
     color: var(--red);
 }
 
+.titulo-projetos {
+    padding-top: 72px;
+}
+
 .projetos {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
