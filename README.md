@@ -26,5 +26,6 @@ Portfólio pessoal para apresentar meus principais projetos, habilidades e servi
 - Integração de SVGs e imagens otimizadas
 
 ## 🖼️ Demonstração
+<img width="1360" height="2523" alt="FireShot Capture 013 - Portfólio Dev -  127 0 0 1" src="https://github.com/user-attachments/assets/85332566-663e-4796-bf77-5471bb1afe54" />
 
 Acesse o projeto através deste link: [Portfólio Dev](https://julianafc.github.io/Portfolio_Dev/)
