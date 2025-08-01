@@ -118,7 +118,7 @@
     }
 }
 
-@media (max-width: 740px) {
+@media (max-width: 650px) {
     .projetos {
         grid-template-columns: 1fr;
         justify-items: center;
@@ -134,5 +134,10 @@
     .servico-individual {
         min-width: 280px;
         min-height: 155px;
+    }
+
+    .contato-individual {
+        min-width: 320px;
+        min-height: 68px;
     }
 }

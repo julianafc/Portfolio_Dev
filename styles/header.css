@@ -19,7 +19,7 @@ header {
     margin: 0 auto;
     max-width: 1040px;
     gap: 16px;
-    height: 100vh;
+    width: 70%;
 }
 
 .text-sm {
@@ -54,5 +54,23 @@ header {
 .setas {
     width: 32px;
     height: 32px;
-    margin-bottom: 129px;
+    margin-bottom: 120px;
+}
+
+@media (max-width: 650px) {
+    header {
+        padding-top: 50px;
+    }
+
+    .container {
+        width: 90%;
+    }
+
+    .title-lg {
+        font-size: 40px;
+    }
+
+    .setas {
+        margin-bottom: 80px;
+    }
 }
